@@ -1,0 +1,7 @@
+---------- Lab 1 Activates ----------
+
+Step1: create repose in GitHub
+Step2: copy repose path
+Step3: open git bash in the selected folder
+Step4: git command -> git clone [paste repose link]
+Step5: check git status
