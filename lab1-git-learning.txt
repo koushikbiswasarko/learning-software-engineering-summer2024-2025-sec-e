@@ -5,3 +5,6 @@ Step2: copy repose path
 Step3: open git bash in the selected folder
 Step4: git command -> git clone [paste repose link]
 Step5: check git status
+Step6: git command -> git add [file name]
+Step7: git command -> git commit -m "[commit]"
+Step8: git command -> git git push
